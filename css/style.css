@@ -1,0 +1,14 @@
+/*Colors*/
+
+.bg-teal {background-color: #80cbc4;}
+.bg-lblue {background-color: #1e88e5 ;}
+.bg-lblue-1 {background-color:  #80d8ff;}
+.bg-lblue-2 {background-color:  #40c4ff;}
+.bg-lblue-3 {background-color:  #00b0ff;}
+
+.fg-lred {color: #ee6e73;}
+
+.navbar-default .navbar-nav>li>a {color: #fff}
+.navbar-default .navbar-brand {color: #fff;}
+.navbar-default .navbar-toggle .icon-bar {background-color: #fff;}
+.navbar-default .navbar-toggle {border-color: #fff;}
